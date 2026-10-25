@@ -1,4 +1,4 @@
-Hi, I'm Mpumelelo | Aspiring SOC Analyst 
+Hi, I'm Mpumelelo Billionier | Aspiring SOC Analyst 
 Tsakane, South Africa| SOC level 1/Blue Team
 
 **TryHackMe:** https://tryhackme.com/p/Billionier
